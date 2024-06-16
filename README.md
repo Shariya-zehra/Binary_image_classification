@@ -18,3 +18,7 @@ The final layer uses a sigmoid activation function for binary classification (da
 **Training and Evaluation**
 The model is trained on a portion of the dataset and evaluated on a separate test set. The training process involves optimizing the model parameters using the Adam optimizer and minimizing the binary cross-entropy loss function.
 The performance of the model is evaluated based on accuracy metrics.
+
+**Dataset**
+Binary image classification of Flowers using CNN.
+The dataset used for training and evaluating the model can be downloaded from kaggle "https://www.kaggle.com/datasets/alxmamaev/flowers-recognition" .
